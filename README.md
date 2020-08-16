@@ -47,9 +47,8 @@
 
 ### Front end Web with ReactJS
 <div>
-   <img src="./assets/web-landing.png" width="300px">
-   <img src="./assets/web-list.png" width="300px">
-   <img src="./assets/web-register.png" width="300px">
+   <img src="./assets/web-list.png">
+   <img src="./assets/web-register.png">
 </div>
 
 ### Front end Mobile React Native

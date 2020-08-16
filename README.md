@@ -130,4 +130,3 @@ $ flutter run
 # License
 
 Released in 2020 :closed_book: License
-This project is under the [MIT license](./LICENSE).

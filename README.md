@@ -58,21 +58,12 @@
 
 ### Front end Mobile React Native
 <div>
-   <img src="./assets/react_native/mobile-landing-rn.png" width="180">
-   <img src="./assets/react_native/mobile-classes-rn.png" width="180">
-   <img src="./assets/react_native/mobile-filter-rn.png" width="180">
-   <img src="./assets/react_native/mobile-list-rn.png" width="180">
-   <img src="./assets/react_native/mobile-favorites-rn.png" width="180">
+   <img src="./assets/react_native/RN.png">
 </div>
 
 ### Front end Mobile Flutter
 <div>
-   <img src="./assets/flutter/mobile-landing.png" width="180">
-   <img src="./assets/flutter/mobile-classes-flutter.png" width="180">
-   <img src="./assets/flutter/mobile-list-empty-flutter.png" width="180">
-   <img src="./assets/flutter/mobile-list-filter-flutter.png" width="180">
-   <img src="./assets/flutter/mobile-list-flutter.png" width="180">
-   <img src="./assets/flutter/mobile-favorites-flutter.png" width="180">
+   <img src="./assets/flutter/Flutter.png">
 </div>
 
 # :settings: How to run

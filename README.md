@@ -4,7 +4,7 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/caio-magri-318a42a1/">
-      <img alt="Caio Magri" src="https://img.shields.io/badge/-kaiomagri-04D361?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Caio Magri" src="https://img.shields.io/badge/-Caio Magri-04D361?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/kaiomagri/nlw2?color=04D361">
   <a href="https://github.com/kaiomagri/nlw2/commits/master">
